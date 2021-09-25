@@ -1,5 +1,6 @@
 {
   "businessName": "Sports Club",
+  "iconUrl": "https://seeklogo.com/images/A/adidas-logo-82FD2D7779-seeklogo.com.png",
   "tokens": [
     { "name": "Points", "chain":"eth", "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", "type": "points" },
     { "name": "Silver Membership", "chain":"eth", "asset": "0xfe54f2007b07af0ebb8bf1eb3b3ef2cef0db094f", "type": "level", "imgAward": "https://ezee-trophies.co.uk/wp-content/uploads/AM104202.jpg" },
