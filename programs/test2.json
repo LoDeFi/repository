@@ -1,0 +1,7 @@
+{
+  "businessName": "Binance",
+  "iconUrl": "https://www.logo.wine/a/logo/Binance/Binance-Vertical2-Dark-Background-Logo.wine.svg",
+  "tokens": [
+    { "name": "BNB", "chain":"eth", "asset": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52", "type": "points" }
+  ]
+}
