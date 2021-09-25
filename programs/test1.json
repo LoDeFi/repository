@@ -1,0 +1,9 @@
+{
+  "businessName": "Sports Club",
+  "tokens": [
+    { "name": "Points", "chain":"eth", "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", "type": "points" },
+    { "name": "Silver Membership", "chain":"eth", "asset": "0xfe54f2007b07af0ebb8bf1eb3b3ef2cef0db094f", "type": "level", "imgAward": "https://ezee-trophies.co.uk/wp-content/uploads/AM104202.jpg" },
+    { "name": "Gold Membership", "chain":"eth", "asset": "0xf36446105ff682999a442b003f2224bcb3d82067", "type": "level", "imgAward": "https://ezee-trophies.co.uk/wp-content/uploads/AM104101.jpg" },
+    { "name": "Platinum Membership", "chain":"eth", "asset": "0x10633216E7E8281e33c86F02Bf8e565a635D9770", "type": "level", "imgAward": "https://w7.pngwing.com/pngs/861/416/png-transparent-sponsor-advertising-organization-logo-platinum-classical-medal-miscellaneous-company-text.png" },
+  ]
+}
